@@ -1,0 +1,12 @@
+1
+mouse
+100
+50
+2
+keyboard
+150
+20
+3
+monitor
+2000
+5
