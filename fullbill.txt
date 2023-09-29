@@ -1,0 +1,6 @@
+ customer's name = dhruv 
+ phone number = 6353557849 
+ product number = 3 
+ product name = monitor
+ purchased quantity = 1 
+ total = 2000 
