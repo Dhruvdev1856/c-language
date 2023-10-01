@@ -5,6 +5,7 @@ int main()
 {
     char ch;
     int a,b;
+    target: // label
     printf("enter a to do addition \nenter m to do multiplication \nenter d for division \nenter your choice : ");
     scanf("%c",&ch);
     if( ch == 'a' || ch == 'm' || ch == 'd')
@@ -13,6 +14,11 @@ int main()
         scanf("%d",&a);
         printf("please enter the value of b : ");
         scanf("%d",&b);
+    }
+    else
+    {
+        printf("\nPlease enter valid choice \n");
+        goto target;
     }
     switch(ch)
     {
