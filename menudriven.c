@@ -30,7 +30,7 @@ int main()
             break;
         case 'd':
             printf("the division of %d and %d is %d.",a,b,(a/b));
-            break;
+            break; 
     }
     return 0;
 }
